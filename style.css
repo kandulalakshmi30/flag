@@ -1,0 +1,140 @@
+
+*{
+    margin:0%;
+}
+.apple{
+     background:linear-gradient(to left,skyblue,white, rgb(255, 192, 203));
+     padding: 1%;
+
+     
+}
+.apple li{
+    list-style: none;
+    display: inline;
+    width: 100vw;
+    margin-left:5%;
+    
+}
+.mug{
+    padding-left:5%;
+    color: rgb(30, 63, 211);
+}
+.heart{
+    margin-right: 40%;
+    text-decoration: 2px double red underline;
+}
+.hand{
+    padding-left:10%;
+    text-decoration: 2px double red underline;
+}
+
+.star{
+    
+    margin-left: 40%;
+    width: 50vw;
+    height: 40vh;
+    font-size:35px;
+    
+}
+.chandu{
+   
+    margin-left:40% ;
+    width: 50vw;
+    height: 40vh ;
+    font-size:35px ;
+}
+.pink{
+    margin-left:50% ;
+    width: 40vw;
+    height: 40vh ;
+    font-size:35px ;
+}
+.child{
+    width: 33vw;
+    height:33.3vh;
+}
+.kidney{
+    text-decoration: 2px double rgb(226, 11, 11) underline;
+}
+#moon{
+    margin-top:-20% ;
+}
+#main{
+    margin-top: -20%;
+}
+
+#one{
+    background-color: orange;
+    /* background:linear-gradient(to left,green,blue,red,yellow) */
+    /* background:radial-gradient(violet,yellow) */
+}
+#two{
+    background-color: white;
+    
+}
+#three{
+    background-color: green;
+}
+
+.big{
+    width:33vw ;
+    height: 30.5vh;
+}
+#four{
+    background-color:blue ;
+}
+#five{
+    background-color: rgb(228, 228, 14);
+}
+#six{
+    background-color: red;
+}
+.small{
+    width: 40vw;
+    height: 6vh;
+    
+    
+}
+#sun{
+    margin-top: -20%;
+}
+#seven{
+    background-color: red;
+}
+#eight{
+    background-color: white;
+}
+    
+#nine{
+    background-color:red;
+}
+#ten{
+    background-color: white;
+}
+#eleven{
+    background-color:red;
+}
+#twele{
+    background-color: white;
+}
+#thirteen{
+    background-color:red;
+}
+#fourten{
+    background-color:white;
+}
+#fiften{
+    background-color:red;
+}
+#sixten{
+    background-color:white;
+}
+#seventen{
+    background-color:red;
+}
+#eighten{
+    background-color:white;
+}
+#nineten{
+    background-color:red;
+}
